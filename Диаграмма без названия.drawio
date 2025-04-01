@@ -244,8 +244,8 @@
         <mxCell id="NDiatKdzCydLOwNRCj1A-86" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="810" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NDiatKdzCydLOwNRCj1A-87" value="Всего компов красноярск: 2+1+4+3+3+4+6+1+1=25 + 2 сервера" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="988" width="380" height="30" as="geometry" />
+        <mxCell id="NDiatKdzCydLOwNRCj1A-87" value="Всего компов красноярск: 2+1+4+3+2+3+4+6+1+1=27 + 2 сервера" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="988" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NDiatKdzCydLOwNRCj1A-88" value="В томмоте 1 ноутбук" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="1030" width="160" height="30" as="geometry" />
